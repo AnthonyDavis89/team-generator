@@ -1,0 +1,19 @@
+body {
+    background-color: #feffde;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.heading-color {
+    background-color: #ddffbc !important;
+}
+
+.card-color {
+    background-color: #91c788;
+}
