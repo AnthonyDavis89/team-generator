@@ -42,4 +42,4 @@ THEN I exit the application, and the HTML is generated
 
 ## Result
 Link to video:
-<https://drive.google.com/file/d/1ZNDjTkRQooiwCgzjhoZDllyYhd6tKip-/view?usp=sharing>
+<https://drive.google.com/file/d/1tTtjpH0DSPK4vfp4xgROcGUzrnM4tCq4/view?usp=sharing>
